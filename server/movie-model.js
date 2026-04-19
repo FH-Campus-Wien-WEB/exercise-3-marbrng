@@ -88,5 +88,39 @@ module.exports = {
       "https://m.media-amazon.com/images/M/MV5BZjBhYzgyY2YtMTBhZS00NWIwLWIyYTgtMzhhYmFhZDNkMTQxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
     Metascore: 0.1,
     imdbRating: 8.0,
+  },
+  tt4154796: {
+    imdbID: 'tt4154796',
+    Title: 'Avengers: Endgame',
+    Released: '2019-04-26',
+    Runtime: 181,
+    Genres: ['Action', 'Adventure', 'Fantasy', 'Sci-Fi'],
+    Directors: ['Anthony Russo', 'Joe Russo'],
+    Writers: [
+      'Christopher Markus',
+      'Stephen McFeely',
+      'Stan Lee (based on the Marvel comics by)',
+      'Jack Kirby (based on the Marvel comics by)',
+      'Jim Starlin (comic book)'
+    ],
+    Actors: ['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo'],
+    Plot: 'After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.',
+    Poster: 'https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg',
+    Metascore: 78,
+    imdbRating: 8.4
+  },
+  tt3460252: {
+    imdbID: 'tt3460252',
+    Title: 'The Hateful Eight',
+    Released: '2015-12-30',
+    Runtime: 168,
+    Genres: ['Crime', 'Drama', 'Mystery'],
+    Directors: ['Quentin Tarantino'],
+    Writers: ['Quentin Tarantino'],
+    Actors: ['Samuel L. Jackson', 'Kurt Russell', 'Jennifer Jason Leigh'],
+    Plot: 'In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.',
+    Poster: 'https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg',
+    Metascore: 68,
+    imdbRating: 7.8
   }
 };

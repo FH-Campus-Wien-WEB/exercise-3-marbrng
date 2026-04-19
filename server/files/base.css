@@ -1,20 +1,28 @@
-body {
-  font-family: "Trebuchet MS", sans-serif;
-  background-color: brown;
-  color: beige;
+:root {
+  color-scheme: light;
+  --background: #d9dde3;
+  --surface: #f6f7f9;
+  --surface-strong: #ffffff;
+  --text: #1f2933;
+  --muted: #52606d;
+  --accent: #4b5563;
+  --accent-soft: #d8dee8;
+  --border: #c8d0da;
+  --shadow: 0 18px 40px rgba(31, 41, 51, 0.12);
 }
 
-main {
-  color: #333;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 button {
-    padding: 4px;
-    border-width: 1px;
-    border-radius: 4px;
-    font-size: 105%;
-}
-
-button:hover {
-  background-color: darkgray;
+  padding: 0px 8px;
+  margin-right: 8px;
+  border-width: 1px;
+  border-radius: 4px;
+  font-size: 110%;
 }
